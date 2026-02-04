@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+.font-vibes {
+  font-family: "Great Vibes", cursive;
+}
+
+.font-cormorant {
+  font-family: "Cormorant Garamond", serif;
+}
+
+.font-poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+  background: #07162f; /* azul oscuro (en vez de negro) */
+}
